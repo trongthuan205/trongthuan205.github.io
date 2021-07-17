@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : 
 title_separator          : 
-name                     : &name "Thuan Nguyen Trong"
+name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://trongthuan205.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nguyenvd-uit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "trongthuan205/trongthuan205.github.io"
+repository               : "nguyenvd-uit/nguyenvd-uit.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,29 +80,29 @@ analytics:
 
 # Site Author
 author:
-  name             : "Thuan Trong Nguyen"
-  avatar           : "ThuanNT.png"
-  bio              : "Computer Vision, Deep Learning"
+  name             : "Nguyen D. Vo"
+  avatar           : "profile.png"
+  bio              : "Computer Vision, Deep Learning, Object Detection"
   location         : "Ho Chi Minh City, Vietnam"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "18521471@gm.uit.edu.vn"
-  researchgate     : "https://www.researchgate.net/profile/Thuan-Nguyen-63"
+  googlescholar    : "https://scholar.google.com.vn/citations?user=LMLI9ZsAAAAJ&hl=vi"
+  email            : "nguyenvd@uit.edu.vn"
+  researchgate     : "https://www.researchgate.net/profile/Nguyen-D-Vo"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/thuan.nguyentrong205/"
+  facebook         : "voduynguyen.uit"
   foursquare       :
-  github           : "https://github.com/trongthuan205"
+  github           : "nguyenvd-uit"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/nguyen-trong-thuan-5073971b7/"
+  linkedin         : "võ-duy-nguyên-b6177995"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/c/MR2901-nguyenvd"
   wikipedia        :
 
 

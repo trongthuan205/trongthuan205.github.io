@@ -8,12 +8,18 @@ main:
 
   - title: "Publications"
     url: "#publication"    
-    
-  - title: "Award"
-    url: "#award"
+  
+  - title: "Datasets"
+    url: "https://github.com/nguyenvd-uit/uit-together-dataset"      
+  
+  - title: "Misc"
+    url: "#misc"  
+      
+  # - title: "Award"
+  #   url: "#award"
         
-  - title: "Courses"
-    url: "#courses"
+  # - title: "Courses"
+  #   url: "#courses"
     
   # - title: "CV"
   #   url: /cv/
