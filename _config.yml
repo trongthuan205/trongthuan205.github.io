@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : 
 title_separator          : 
-name                     : &name "Your Name"
+name                     : &name "Thuan Nguyen Trong"
 description              : &description "personal description"
-url                      : https://caodoanh2001.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://trongthuan205.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "caodoanh2001/caodoanh2001.github.io"
+repository               : "trongthuan205/trongthuan205.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,29 +80,29 @@ analytics:
 
 # Site Author
 author:
-  name             : "Doanh C. Bui"
-  avatar           : "profile.png"
-  bio              : "Computer Vision, Deep Learning, Machine Learning, Object Detection"
+  name             : "Thuan Trong Nguyen"
+  avatar           : "ThuanNT.png"
+  bio              : "Computer Vision, Deep Learning"
   location         : "Ho Chi Minh City, Vietnam"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "19521366@gm.uit.edu.vn"
-  researchgate     : "Doanh-Bui-4"
+  email            : "18521471@gm.uit.edu.vn"
+  researchgate     : "https://www.researchgate.net/profile/Thuan-Nguyen-63"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "buicaodoanh"
+  facebook         : "https://www.facebook.com/thuan.nguyentrong205/"
   foursquare       :
-  github           : "caodoanh2001"
+  github           : "https://github.com/trongthuan205"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "buicaodoanh"
+  linkedin         : "https://www.linkedin.com/in/nguyen-trong-thuan-5073971b7/"
   orcid            : 
   pinterest        :
   soundcloud       :
