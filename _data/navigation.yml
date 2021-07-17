@@ -9,11 +9,11 @@ main:
   - title: "Publications"
     url: "#publication"    
   
-  - title: "Datasets"
-    url: "https://github.com/nguyenvd-uit/uit-together-dataset"      
+  # - title: "Datasets"
+  #   url: "https://github.com/nguyenvd-uit/uit-together-dataset"      
   
-  - title: "Misc"
-    url: "#misc"  
+  # - title: "Misc"
+  #   url: "#misc"  
       
   # - title: "Award"
   #   url: "#award"
