@@ -25,8 +25,14 @@ Working on computer vision and deep learning.<br/> -->
 
 ## <a name="publication"></a> Publications
 
+Parsing Digitized Vietnamese Paper Documents<br/>
+Linh Truong Dieu, Thuan Trong Nguyen, Nguyen D. Vo, Tam V. Nguyen, Khang Nguyen<br/>
+International Conference on Computer Analysis of Images and Patterns (CAIP),2021<br/>
+<!-- [[PDF](https://www.researchgate.net/publication/352900778_VinaFood21_A_Novel_Dataset_for_Evaluating_Vietnamese_Food_Recognition)],
+[[Dataset](https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/VinaFood21.md)]<br/> -->
+
 VinaFood21:  A Novel Dataset for Evaluating Vietnamese Food Recognition<br/>
-Thuan Trong Nguyen, Thuan Q. Nguyen, Dung Vo, Vi Nguyen, Ngoc Ho, *Thuan Trong Nguyen*, Kiet Van Nguyen, Khang Nguyen<br/>
+Thuan Trong Nguyen, Thuan Q. Nguyen, Dung Vo, Vi Nguyen, Ngoc Ho, Kiet Van Nguyen, Khang Nguyen<br/>
 International Conference on Research, Innovation and Vision for the Future (RIVF),2021<br/>
 [[PDF](https://www.researchgate.net/publication/352900778_VinaFood21_A_Novel_Dataset_for_Evaluating_Vietnamese_Food_Recognition)],
 [[Dataset](https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/VinaFood21.md)]<br/>
