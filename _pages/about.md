@@ -14,12 +14,12 @@ I am a Junior at the University of Information Technology, VietnamNational Unive
 
 <!-- ***University of Information Technology, VNU-HCM***<br/>
 Jul 2017 - Present, Researcher<br/>
-Working on computer vision and deep learning.<br/> -->
+Working on computer vision and deep learning.<sbr/> -->
 
 ## <a name="edu"></a> Education
 
 ***University of Science, VNU-HCM***<br/>
-2018 - expected 2022, Bachelor
+2018 - expected 2022, Bachelor of Data Science
 <!-- 2018, MSc, Computer Science<br/>
 2013, BSc, Infomation Technology<br/> -->
 
