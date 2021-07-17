@@ -80,29 +80,29 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nguyen D. Vo"
-  avatar           : "profile.png"
-  bio              : "Computer Vision, Deep Learning, Object Detection"
+  name             : "Thuan Nguyen Trong"
+  avatar           : "ThuanNT.png"
+  bio              : "Computer Vision, Deep Learning"
   location         : "Ho Chi Minh City, Vietnam"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.vn/citations?user=LMLI9ZsAAAAJ&hl=vi"
-  email            : "nguyenvd@uit.edu.vn"
-  researchgate     : "https://www.researchgate.net/profile/Nguyen-D-Vo"
+  googlescholar    : "https://scholar.google.com/citations?user=ih9cgSwAAAAJ&hl=en"
+  email            : "18521471@gm.uit.edu.vn"
+  researchgate     : "https://www.researchgate.net/profile/Thuan-Nguyen-63"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "voduynguyen.uit"
+  facebook         : "trongthuan205"
   foursquare       :
-  github           : "nguyenvd-uit"
+  github           : "trongthuan205"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "võ-duy-nguyên-b6177995"
+  linkedin         : "https://www.linkedin.com/in/nguyen-trong-thuan-5073971b7/"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/c/MR2901-nguyenvd"
+  youtube          : #"https://www.youtube.com/c/MR2901-nguyenvd"
   wikipedia        :
 
 
