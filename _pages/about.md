@@ -18,7 +18,7 @@ Working on computer vision and deep learning.<sbr/> -->
 
 ## <a name="edu"></a> Education
 
-***University of Science, VNU-HCM***<br/>
+***University of Information Technology, VNU-HCM***<br/>
 2018 - expected 2022, Bachelor of Data Science
 <!-- 2018, MSc, Computer Science<br/>
 2013, BSc, Infomation Technology<br/> -->
@@ -32,7 +32,7 @@ International Conference on Computer Analysis of Images and Patterns (CAIP),2021
 [[Dataset](https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/VinaFood21.md)]<br/> -->
 
 VinaFood21:  A Novel Dataset for Evaluating Vietnamese Food Recognition<br/>
-Thuan Trong Nguyen, Thuan Q. Nguyen, Dung Vo, Vi Nguyen, Ngoc Ho, Kiet Van Nguyen, Khang Nguyen<br/>
+Thuan Trong Nguyen, Thuan Q. Nguyen, Dung Vo, Vi Nguyen, Ngoc Ho, Kiet Van Nguyen, Nguyen D. Vo, Khang Nguyen<br/>
 International Conference on Research, Innovation and Vision for the Future (RIVF),2021<br/>
 [[PDF](https://www.researchgate.net/publication/352900778_VinaFood21_A_Novel_Dataset_for_Evaluating_Vietnamese_Food_Recognition)],
 [[Dataset](https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/VinaFood21.md)]<br/>
