@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Junior at the University of Information Technology, VietnamNational University - Ho Chi Minh City. I am interested in Machine Learning and Computer Vision and most concerned with Document Image Understanding.
+I am a Junior at the University of Information Technology, VietnamNational University - Ho Chi Minh City. I am interested in Machine Learning and Computer Vision.
 
 ## <a name="exp"></a> Experience
 
