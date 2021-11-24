@@ -25,19 +25,19 @@ Fall 2021 - Mobile Application Developer Intern
 2013, BSc, Infomation Technology<br/> -->
 
 ## <a name="publication"></a> Publications
-*Thuan Trong Nguyen*, Thuan Q. Nguyen, Long Duong, Nguyen D. Vo, Khang Nguyen. "CDeRSNet: Towards High Performance Object Detection in Vietnamese Documents Images". International Conference on Multimedia Modeling (MMM), 2022, (Rank B - CORE2021).
+* **Thuan Trong Nguyen**, Thuan Q. Nguyen, Long Duong, Nguyen D. Vo, Khang Nguyen; "CDeRSNet: Towards High Performance Object Detection in Vietnamese Documents Images"; *International Conference on Multimedia Modeling (MMM)*; 2022; (Rank B - CORE2021).
 
-*Thuan Trong Nguyen*, Hai Le, Truong Nguyen, Thinh Le, Khanh Duong, Quyen Tran, Vu Bui, Hop Nguyen, Nguyen D. Vo,Tam V. Nguyen, Khang Nguyen, "An Empirical Evaluation of Feature Extraction of Vietnamese Fruit Classification"; JSTIC Journal of Science and Technology on Information and Communications, 2021.
+* **Thuan Trong Nguyen**, Hai Le, Truong Nguyen, Thinh Le, Khanh Duong, Quyen Tran, Vu Bui, Hop Nguyen, Nguyen D. Vo,Tam V. Nguyen, Khang Nguyen; "An Empirical Evaluation of Feature Extraction of Vietnamese Fruit Classification"; *Vietnam Journal of Science and Technology (VJST)*; 2021.
 <br/>
 [[Dataset](https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/UIT-VinaFruit20.md)]
 
-Linh Truong Dieu, *Thuan Trong Nguyen*, Nguyen D. Vo,Tam V. Nguyen, Khang Nguyen. "Parsing Digitized Vietnamese Paper Documents." VJST Vietnam Journal of Science and Technology, International Conference on Computer Analysis of Images and Patterns (CAIP), 2021, (Rank B - CORE2021).
+* Linh Truong Dieu, **Thuan Trong Nguyen**, Nguyen D. Vo,Tam V. Nguyen, Khang Nguyen; "Parsing Digitized Vietnamese Paper Documents"; *International Conference on Computer Analysis of Images and Patterns (CAIP)*; 2021; (Rank B - CORE2021).
 <br/>
 [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-89128-2_37)], 
 [[Dataset](https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/UIT-DODV.md)]
 
 
-*Thuan Trong Nguyen*, Thuan Q. Nguyen, Dung Vo, Vi Nguyen, Ngoc Ho, Nguyen D. Vo, Kiet Van Nguyen, Khang Nguyen. "VinaFood21:  A Novel Dataset for Evaluating Vietnamese Food Recognition" International Conference on Research, Innovation and Vision for the Future (RIVF),2021.
+* **Thuan Trong Nguyen**, Thuan Q. Nguyen, Dung Vo, Vi Nguyen, Ngoc Ho, Nguyen D. Vo, Kiet Van Nguyen, Khang Nguyen; "VinaFood21:  A Novel Dataset for Evaluating Vietnamese Food Recognition"; *International Conference on Research, Innovation and Vision for the Future (RIVF)*;2021.
 <br/>
 [[PDF](https://www.researchgate.net/publication/352900778_VinaFood21_A_Novel_Dataset_for_Evaluating_Vietnamese_Food_Recognition)],
 [[Dataset](https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/VinaFood21.md)]
