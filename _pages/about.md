@@ -28,8 +28,7 @@ Fall 2021 - Mobile Application Developer Intern
 <div class="row" style="height: 250px; overflow: auto;">
 <div class="col-md-12">
 <ul class="list-group">
-    <!-- 2021 -->
-    <li class="list-group-item list-group-item-action" style = "font-family: 'Montserrat';font-weight: 500;font-size: 14px;"><span class="far fa-file-alt fa-fw"></span>
+    <li class="list-group-item list-group-item-action" style = "font-family: 'Montserrat';font-weight: 500;font-size: 14px;">
       *Thuan Trong Nguyen*, Thuan Q. Nguyen, Long Duong, Nguyen D. Vo, Khang Nguyen. "CDeRSNet: Towards High Performance Object Detection in Vietnamese Documents Images". International Conference on Multimedia Modeling (MMM), 2022, (Rank B - CORE2021).
     </li>
     <li class="list-group-item list-group-item-action" style = "font-family: 'Montserrat';font-weight: 500;font-size: 14px;"><span class="far fa-file-alt fa-fw"></span>
