@@ -25,6 +25,8 @@ Fall 2021 - Mobile Application Developer Intern
 2013, BSc, Infomation Technology<br/> -->
 
 ## <a name="publication"></a> Publications
+<div class="row" style="height: 250px; overflow: auto;">
+<div class="col-md-12">
 <ul class="list-group">
     <!-- 2021 -->
     <li class="list-group-item list-group-item-action" style = "font-family: 'Montserrat';font-weight: 500;font-size: 14px;"><span class="far fa-file-alt fa-fw"></span>
@@ -50,7 +52,12 @@ Fall 2021 - Mobile Application Developer Intern
     </li>
 </ul>
 
+</div>
+</div>
 
+<div class="bigspacer"></div>
+
+<div class="bigspacer"></div>
 
 <!-- ## <a name="award"></a> Award
 
