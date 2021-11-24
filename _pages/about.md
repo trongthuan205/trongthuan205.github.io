@@ -25,6 +25,8 @@ Working on computer vision and deep learning.<sbr/> -->
 
 ## <a name="publication"></a> Publication
 * ***Thuan Trong Nguyen***, Thuan Q. Nguyen, Long Duong, Nguyen D. Vo, Khang Nguyen; "CDeRSNet: Towards High Performance Object Detection in Vietnamese Documents Images"; *International Conference on Multimedia Modeling (MMM)*; 2022; (Rank B - CORE2021).
+<br/>
+[[Code](https://github.com/trongthuan205/CDeRSNet.git)]
 
 * ***Thuan Trong Nguyen***, Hai Le, Truong Nguyen, Thinh Le, Khanh Duong, Quyen Tran, Vu Bui, Hop Nguyen, Nguyen D. Vo,Tam V. Nguyen, Khang Nguyen; "An Empirical Evaluation of Feature Extraction of Vietnamese Fruit Classification"; *Vietnam Journal of Science and Technology (VJST)*; 2021.
 <br/>
