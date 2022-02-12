@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior student at the University of Information Technology, VietnamNational University - Ho Chi Minh City. I am researching Computer Vision, Machine Learning. In particular, I am interested in Deep Learning, Image Classification, Document Image Understanding (Document Object Detection, Optical Character Recognition).
+I am a Senior student at the University of Information Technology, VietnamNational University - Ho Chi Minh City. I am researching Computer Vision, Machine Learning. In particular, I am interested in Deep Learning, Image Classification, Document Image Understanding (Page Object Detection, Text Recognition).
 
 ## <a name="exp"></a> Experience
 
@@ -28,12 +28,12 @@ Working on computer vision and deep learning.<sbr/> -->
 
 * Phuc Nguyen, Luu Ngo, Thang Truong, ***Thuan Trong Nguyen***, Nguyen D. Vo, Khang Nguyen. Page Object Detection with YOLOF. *NAFOSTED Conference on Information and Computer Science (NICS)*. 2021.
 <br/>
-[[PDF](https://ieeexplore.ieee.org/abstract/document/9701449)], 
+[[PDF](https://ieeexplore.ieee.org/abstract/document/9701449)] 
 
 
 * Hai Le, Truong Nguyen, Vy Le, ***Thuan Trong Nguyen***, Nguyen D. Vo, Khang Nguyen. Guided Anchoring Cascade R-CNN: An intensive improvement of R-CNN in Vietnamese Document Detection. *NAFOSTED Conference on Information and Computer Science (NICS)*. 2021.
 <br/>
-[[PDF](https://ieeexplore.ieee.org/abstract/document/9701510)], 
+[[PDF](https://ieeexplore.ieee.org/abstract/document/9701510)] 
 
 * ***Thuan Trong Nguyen***, Thuan Q. Nguyen, Long Duong, Nguyen D. Vo, Khang Nguyen. CDeRSNet: Towards High Performance Object Detection in Vietnamese Documents Images. *International Conference on Multimedia Modeling (MMM)*. 2022.
 <br/>
@@ -57,12 +57,13 @@ Working on computer vision and deep learning.<sbr/> -->
 
 
 
-<!-- ## <a name="award"></a> Award
+## <a name="award"></a> Award
 
-* Top 15 Zalo AI Challenge (Traffic Sign Detection)
-## <a name="courses"></a> Courses
+* Final Round Youth Creativity Competition 2021: Green Traffic
+* Top 8 VLSP 2021 - vieCap4H Challenge: Automatic image caption generation for healthcare domains in Vietnamese
+<!-- ## <a name="courses"></a> Courses
 
-[Here](https://github.com/caodoanh2001/Certificates) -->
+[Here](https://github.com/caodoanh2001/Certificates) --> -->
 
 <!-- ## <a name="misc"></a> Misc
 **Teaching**<br/> -->
