@@ -15,8 +15,8 @@ main:
   # - title: "Misc"
   #   url: "#misc"  
       
-  # - title: "Award"
-  #   url: "#award"
+  - title: "Award"
+    url: "#award"
         
   # - title: "Courses"
   #   url: "#courses"
