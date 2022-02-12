@@ -59,11 +59,11 @@ Working on computer vision and deep learning.<sbr/> -->
 
 ## <a name="award"></a> Award
 
-* Final Round Youth Creativity Competition 2021: Green Traffic
-* Top 8 VLSP 2021 - vieCap4H Challenge: Automatic image caption generation for healthcare domains in Vietnamese
+* Final Round Youth Creativity Competition 2021: ***Green Traffic***
+* Top 8 VLSP 2021 - vieCap4H Challenge: ***Automatic image caption generation for healthcare domains in Vietnamese***
 <!-- ## <a name="courses"></a> Courses
 
-[Here](https://github.com/caodoanh2001/Certificates) --> -->
+
 
 <!-- ## <a name="misc"></a> Misc
 **Teaching**<br/> -->
