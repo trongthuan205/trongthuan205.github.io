@@ -39,7 +39,7 @@ Working on computer vision and deep learning.<sbr/> -->
 <br/>
 [[Code](https://github.com/trongthuan205/CDeRSNet.git)]
 
-* ***Thuan Trong Nguyen***, Hai Le, Truong Nguyen, Thinh Le, Khanh Duong, Quyen Tran, Vu Bui, Hop Nguyen, Nguyen D. Vo,Tam V. Nguyen, Khang Nguyen. An Empirical Evaluation of Feature Extraction of Vietnamese Fruit Classification. *Vietnam Journal of Science and Technology (VJST)*. 2021.
+* ***Thuan Trong Nguyen***, Hai Le, Truong Nguyen, Thinh Le, Khanh Duong, Quyen Tran, Vu Bui, Hop Nguyen, Nguyen D. Vo, Khang Nguyen. An Empirical Evaluation of Feature Extraction of Vietnamese Fruit Classification. *Vietnam Journal of Science and Technology (VJST)*. 2021.
 <br/>
 [[Dataset](https://github.com/nguyenvd-uit/uit-together-dataset/blob/main/UIT-VinaFruit20.md)]
 
