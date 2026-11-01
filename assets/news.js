@@ -12,17 +12,17 @@ window.SITE_NEWS = [
   },
   {
     "date": "2026-09",
-    "title": "Attended ECCV 2026 in Malmö, Sweden",
-    "body": "",
-    "url": "",
-    "type": "conference"
-  },
-  {
-    "date": "2026-09",
     "title": "Two papers accepted at ACCV 2026",
     "body": "",
     "url": "",
     "type": "paper"
+  },
+  {
+    "date": "2026-09",
+    "title": "Attended ECCV 2026 in Malmö, Sweden",
+    "body": "",
+    "url": "",
+    "type": "conference"
   },
   {
     "date": "2026-08",
