@@ -4,6 +4,13 @@
 // Items are automatically displayed newest first. Use a full https:// URL.
 window.SITE_NEWS = [
   {
+    "date": "2026-11",
+    "title": "Accepted to the RIVF 2026 Doctoral Consortium",
+    "body": "RIVF 2026 will take place at VinUniversity, Hanoi, Vietnam, December 18–20, 2026.",
+    "url": "",
+    "type": "achievement"
+  },
+  {
     "date": "2026-10",
     "title": "Completed my role as team lead at Saigon AI Hub",
     "body": "My tenure at Saigon AI Hub (SAIH) ran from April to October 2026.",
